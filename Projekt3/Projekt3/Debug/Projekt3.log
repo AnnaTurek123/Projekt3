@@ -1,0 +1,36 @@
+﻿  GraphHelper.cpp
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(19,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(22,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(24,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(26,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(47,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(50,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(74,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(77,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(88,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(91,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(102,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(124,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(153,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(160,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(168,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(173,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Projekt3.cpp
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(19,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(22,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(24,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(26,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(47,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(50,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(74,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(77,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(88,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(91,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(102,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(124,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(153,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(160,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(168,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Projekt3\GraphHelper.h(173,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  Projekt3.vcxproj -> C:\Users\hp\Documents\GitHub\Projekt3\Projekt3\Debug\Projekt3.exe
