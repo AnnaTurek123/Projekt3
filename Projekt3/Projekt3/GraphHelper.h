@@ -176,7 +176,7 @@ public:
 							checkOfOnes = true; //ustawiamy flagê na true
 							twoDirectionalEdge1 = vectorOfPositionsToCheck[kk];//ustawiamy numer pierwszej krawêdzi dwukierunkowej
 						}
-						else if (_incidentMatrix[k + 1][vectorOfPositionsToCheck[kk]] == -1) {//jeœli w znalezionym liinijkê wczeœniej wierszu, przy indeksie kk element wynosi -11, to mamy za³atwiony check z minus jedynk¹
+						else if (_incidentMatrix[k + 1][vectorOfPositionsToCheck[kk]] == -1) {//jeœli w znalezionym liinijkê wczeœniej wierszu, przy indeksie kk element wynosi -1, to mamy za³atwiony check z minus jedynk¹
 							checkOfMinusOnes = true; //ustawiamy flagê na true
 							twoDirectionalEdge2 = vectorOfPositionsToCheck[kk];//ustawiamy numer drugiej krawêdzi dwukierunkowej
 						}
